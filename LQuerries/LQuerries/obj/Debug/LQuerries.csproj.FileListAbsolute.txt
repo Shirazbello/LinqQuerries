@@ -1,0 +1,7 @@
+C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\bin\Debug\LQuerries.exe.config
+C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\bin\Debug\LQuerries.exe
+C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\bin\Debug\LQuerries.pdb
+C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\obj\Debug\LQuerries.csprojAssemblyReference.cache
+C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\obj\Debug\LQuerries.csproj.CoreCompileInputs.cache
+C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\obj\Debug\LQuerries.exe
+C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\obj\Debug\LQuerries.pdb
