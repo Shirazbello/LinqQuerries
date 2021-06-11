@@ -5,3 +5,10 @@ C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\obj\Debug\LQuerries.csprojAss
 C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\obj\Debug\LQuerries.csproj.CoreCompileInputs.cache
 C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\obj\Debug\LQuerries.exe
 C:\Users\Shiraz\source\repos\L\LQuerries\LQuerries\obj\Debug\LQuerries.pdb
+C:\GitProjects\LinqQuerries\LQuerries\LQuerries\bin\Debug\LQuerries.exe.config
+C:\GitProjects\LinqQuerries\LQuerries\LQuerries\bin\Debug\LQuerries.exe
+C:\GitProjects\LinqQuerries\LQuerries\LQuerries\bin\Debug\LQuerries.pdb
+C:\GitProjects\LinqQuerries\LQuerries\LQuerries\obj\Debug\LQuerries.csprojAssemblyReference.cache
+C:\GitProjects\LinqQuerries\LQuerries\LQuerries\obj\Debug\LQuerries.csproj.CoreCompileInputs.cache
+C:\GitProjects\LinqQuerries\LQuerries\LQuerries\obj\Debug\LQuerries.exe
+C:\GitProjects\LinqQuerries\LQuerries\LQuerries\obj\Debug\LQuerries.pdb

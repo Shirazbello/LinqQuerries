@@ -216,9 +216,44 @@ namespace LQuerries
                 foreach (Student s in group)  //Each group has a inner collection  
                     Console.WriteLine("Student Name: {0}", s.StudentName);
             }
+
+            //Range from 1 to 7
+            List<int> Rangedvalues = Range(1, 7);
+            Console.WriteLine("FROM 1 to 7:");
+            Rangedvalues.ForEach(i => Console.WriteLine(i));
+
+            //Range from 4 to 20
+            Console.WriteLine("\n\nFROM 4 to 20:");
+            Range(4, 20).ForEach(n => Console.WriteLine(n));
+
+            //Getting Odd and Even Numbers from Linq
+            var even = Range(4, 40).Where(c => c % 2 == 0);
+            Console.WriteLine("\n\nEVEN NUMBERS ARE:");
+            foreach (var evener in even)
+            {
+                Console.Write(evener + ",");
+            }
+
+            //Getting Odd and Even Numbers from Linq
+            var odd = Range(4, 40).Where(c => c % 2 != 0);
+            Console.WriteLine("\n\nODD NUMBERS ARE:");
+            foreach (var ods in odd)
+            {
+                Console.Write(ods + ",");
+            }
             Console.ReadLine();
 
 
+        }
+        //Writting the Range METHOD
+        static List<int> Range(int start, int end)
+        {
+            List<int> valuable = new List<int>();
+            for (int i = start; i <= end; i++)
+            {
+                valuable.Add(i);
+            }
+            return valuable;
         }
     }
 }
